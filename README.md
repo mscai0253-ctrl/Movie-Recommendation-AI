@@ -51,11 +51,11 @@ Built using Machine Learning techniques and enhanced with a modern interactive U
 
  **Future Enhancements**
  
-🧠 Deep Learning Recommendation Model
-📱 Mobile Responsive UI
-🌍 Deploy on Cloud (AWS / Render)
-🎬 Netflix-style UI
-🔐 JWT Authentication
+- Deep Learning Recommendation Model
+- Mobile Responsive UI
+- Deploy on Cloud (AWS / Render)
+- Netflix-style UI
+- JWT Authentication
 
 
-## 📂 Project Structure
+
